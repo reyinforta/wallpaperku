@@ -1,98 +1,210 @@
 {
-    "categories": [
-        {
-            "id": "1",
-            "name": "Naruto",
-            "image": "https://i.imgur.com/wFkiHIG.png"
-        },
-        {
-            "id": "2",
-            "name": "One Piece",
-            "image": "https://i.imgur.com/wFkiHIG.png"
-        },
-        {
-            "id": "3",
-            "name": "Demon Slayer",
-            "image": "https://i.imgur.com/wFkiHIG.png"
-        },
-        {
-            "id": "4",
-            "name": "Attack on Titan",
-            "image": "https://i.imgur.com/wFkiHIG.png"
-        }
-    ],
-    "wallpapers": [
-        {
-            "id": "1",
-            "title": "Naruto - Boruto",
-            "category": "Naruto",
-            "image": "https://i.imgur.com/wFkiHIG.png",
-            "thumb": "https://i.imgur.com/wFkiHIG.png"
-        },
-        {
-            "id": "2",
-            "title": "Naruto - Boruto",
-            "category": "Naruto",
-            "image": "https://i.imgur.com/wFkiHIG.png",
-            "thumb": "https://i.imgur.com/wFkiHIG.png"
-        },
-        {
-            "id": "3",
-            "title": "Naruto - Boruto",
-            "category": "Naruto",
-            "image": "https://i.imgur.com/wFkiHIG.png",
-            "thumb": "https://i.imgur.com/wFkiHIG.png"
-        },
-        {
-            "id": "4",
-            "title": "Naruto - Boruto",
-            "category": "Naruto",
-            "image": "https://i.imgur.com/wFkiHIG.png",
-            "thumb": "https://i.imgur.com/wFkiHIG.png"
-        },
-        {
-            "id": "5",
-            "title": "Luffy - One Piece",
-            "category": "One Piece",
-            "image": "https://i.imgur.com/luffy1.jpg",
-            "thumb": "https://i.imgur.com/luffy1_thumb.jpg"
-        },
-        {
-            "id": "6",
-            "title": "Zoro - One Piece",
-            "category": "One Piece",
-            "image": "https://i.imgur.com/zoro1.jpg",
-            "thumb": "https://i.imgur.com/zoro1_thumb.jpg"
-        },
-        {
-            "id": "7",
-            "title": "Tanjiro - Demon Slayer",
-            "category": "Demon Slayer",
-            "image": "https://i.imgur.com/tanjiro1.jpg",
-            "thumb": "https://i.imgur.com/tanjiro1_thumb.jpg"
-        },
-        {
-            "id": "8",
-            "title": "Nezuko - Demon Slayer",
-            "category": "Demon Slayer",
-            "image": "https://i.imgur.com/nezuko1.jpg",
-            "thumb": "https://i.imgur.com/nezuko1_thumb.jpg"
-        },
-        {
-            "id": "9",
-            "title": "Eren - Attack on Titan",
-            "category": "Attack on Titan",
-            "image": "https://i.imgur.com/eren1.jpg",
-            "thumb": "https://i.imgur.com/eren1_thumb.jpg"
-        },
-        {
-            "id": "10",
-            "title": "Levi - Attack on Titan",
-            "category": "Attack on Titan",
-            "image": "https://i.imgur.com/levi1.jpg",
-            "thumb": "https://i.imgur.com/levi1_thumb.jpg"
-        }
-    ]
-
+    "status": "success",
+    "data": {
+        "categories": [
+            {
+                "id": 1,
+                "name": "Naruto",
+                "thumbnail": "https://i.imgur.com/wFkiHIG.png"
+            },
+            {
+                "id": 2,
+                "name": "One Piece",
+                "thumbnail": "https://i.imgur.com/wFkiHIG.png"
+            },
+            {
+                "id": 3,
+                "name": "Demon Slayer",
+                "thumbnail": "https://i.imgur.com/wFkiHIG.png"
+            },
+            {
+                "id": 4,
+                "name": "Attack on Titan",
+                "thumbnail": "https://i.imgur.com/wFkiHIG.png"
+            }
+        ],
+        "wallpapers": [
+            {
+                "id": 1,
+                "title": "Naruto - Boruto",
+                "category_id": 1,
+                "category_name": "Naruto",
+                "thumbnail": "https://i.imgur.com/wFkiHIG.png",
+                "full_image": "https://i.imgur.com/wFkiHIG.png",
+                "hd_image": "https://i.imgur.com/wFkiHIG.png",
+                "type": "static",
+                "downloads": 1500,
+                "views": 5000,
+                "tags": [
+                    "naruto",
+                    "boruto",
+                    "anime"
+                ]
+            },
+            {
+                "id": 2,
+                "title": "Naruto - Boruto",
+                "category_id": 1,
+                "category_name": "Naruto",
+                "thumbnail": "https://i.imgur.com/wFkiHIG.png",
+                "full_image": "https://i.imgur.com/wFkiHIG.png",
+                "hd_image": "https://i.imgur.com/wFkiHIG.png",
+                "type": "static",
+                "downloads": 1200,
+                "views": 4500,
+                "tags": [
+                    "naruto",
+                    "anime"
+                ]
+            },
+            {
+                "id": 3,
+                "title": "Naruto - Boruto",
+                "category_id": 1,
+                "category_name": "Naruto",
+                "thumbnail": "https://i.imgur.com/wFkiHIG.png",
+                "full_image": "https://i.imgur.com/wFkiHIG.png",
+                "hd_image": "https://i.imgur.com/wFkiHIG.png",
+                "type": "static",
+                "downloads": 1800,
+                "views": 6000,
+                "tags": [
+                    "naruto",
+                    "anime"
+                ]
+            },
+            {
+                "id": 4,
+                "title": "Naruto - Boruto",
+                "category_id": 1,
+                "category_name": "Naruto",
+                "thumbnail": "https://i.imgur.com/wFkiHIG.png",
+                "full_image": "https://i.imgur.com/wFkiHIG.png",
+                "hd_image": "https://i.imgur.com/wFkiHIG.png",
+                "type": "static",
+                "downloads": 2000,
+                "views": 7000,
+                "tags": [
+                    "naruto",
+                    "anime"
+                ]
+            },
+            {
+                "id": 5,
+                "title": "Luffy - One Piece",
+                "category_id": 2,
+                "category_name": "One Piece",
+                "thumbnail": "https://i.imgur.com/wFkiHIG.png",
+                "full_image": "https://i.imgur.com/wFkiHIG.png",
+                "hd_image": "https://i.imgur.com/wFkiHIG.png",
+                "type": "static",
+                "downloads": 2500,
+                "views": 8000,
+                "tags": [
+                    "luffy",
+                    "onepiece",
+                    "anime"
+                ]
+            },
+            {
+                "id": 6,
+                "title": "Zoro - One Piece",
+                "category_id": 2,
+                "category_name": "One Piece",
+                "thumbnail": "https://i.imgur.com/wFkiHIG.png",
+                "full_image": "https://i.imgur.com/wFkiHIG.png",
+                "hd_image": "https://i.imgur.com/wFkiHIG.png",
+                "type": "static",
+                "downloads": 2200,
+                "views": 7500,
+                "tags": [
+                    "zoro",
+                    "onepiece",
+                    "anime"
+                ]
+            },
+            {
+                "id": 7,
+                "title": "Tanjiro - Demon Slayer",
+                "category_id": 3,
+                "category_name": "Demon Slayer",
+                "thumbnail": "https://i.imgur.com/wFkiHIG.png",
+                "full_image": "https://i.imgur.com/wFkiHIG.png",
+                "hd_image": "https://i.imgur.com/wFkiHIG.png",
+                "type": "static",
+                "downloads": 3000,
+                "views": 9000,
+                "tags": [
+                    "tanjiro",
+                    "demonslayer",
+                    "anime"
+                ]
+            },
+            {
+                "id": 8,
+                "title": "Nezuko - Demon Slayer",
+                "category_id": 3,
+                "category_name": "Demon Slayer",
+                "thumbnail": "https://i.imgur.com/wFkiHIG.png",
+                "full_image": "https://i.imgur.com/wFkiHIG.png",
+                "hd_image": "https://i.imgur.com/wFkiHIG.png",
+                "type": "static",
+                "downloads": 3500,
+                "views": 10000,
+                "tags": [
+                    "nezuko",
+                    "demonslayer",
+                    "anime"
+                ]
+            },
+            {
+                "id": 9,
+                "title": "Eren - Attack on Titan",
+                "category_id": 4,
+                "category_name": "Attack on Titan",
+                "thumbnail": "https://i.imgur.com/wFkiHIG.png",
+                "full_image": "https://i.imgur.com/wFkiHIG.png",
+                "hd_image": "https://i.imgur.com/wFkiHIG.png",
+                "type": "static",
+                "downloads": 2800,
+                "views": 8500,
+                "tags": [
+                    "eren",
+                    "aot",
+                    "anime"
+                ]
+            },
+            {
+                "id": 10,
+                "title": "Levi - Attack on Titan",
+                "category_id": 4,
+                "category_name": "Attack on Titan",
+                "thumbnail": "https://i.imgur.com/wFkiHIG.png",
+                "full_image": "https://i.imgur.com/wFkiHIG.png",
+                "hd_image": "https://i.imgur.com/wFkiHIG.png",
+                "type": "static",
+                "downloads": 4000,
+                "views": 12000,
+                "tags": [
+                    "levi",
+                    "aot",
+                    "anime"
+                ]
+            }
+        ],
+        "featured": [
+            1,
+            5,
+            7,
+            10
+        ],
+        "trending": [
+            8,
+            7,
+            10,
+            5,
+            1
+        ]
+    }
 }
 
