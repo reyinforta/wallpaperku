@@ -8,17 +8,17 @@
         {
             "id": "2",
             "name": "One Piece",
-            "image": "https://i.imgur.com/example2.jpg"
+            "image": "https://i.imgur.com/wFkiHIG.png"
         },
         {
             "id": "3",
             "name": "Demon Slayer",
-            "image": "https://i.imgur.com/example3.jpg"
+            "image": "https://i.imgur.com/wFkiHIG.png"
         },
         {
             "id": "4",
             "name": "Attack on Titan",
-            "image": "https://i.imgur.com/example4.jpg"
+            "image": "https://i.imgur.com/wFkiHIG.png"
         }
     ],
     "wallpapers": [
@@ -26,29 +26,29 @@
             "id": "1",
             "title": "Naruto - Boruto",
             "category": "Naruto",
-            "image": "https://i.imgur.com/naruto1.jpg",
-            "thumb": "https://i.imgur.com/naruto1_thumb.jpg"
+            "image": "https://i.imgur.com/wFkiHIG.png",
+            "thumb": "https://i.imgur.com/wFkiHIG.png"
         },
         {
             "id": "2",
             "title": "Naruto - Boruto",
             "category": "Naruto",
-            "image": "https://i.imgur.com/naruto2.jpg",
-            "thumb": "https://i.imgur.com/naruto2_thumb.jpg"
+            "image": "https://i.imgur.com/wFkiHIG.png",
+            "thumb": "https://i.imgur.com/wFkiHIG.png"
         },
         {
             "id": "3",
             "title": "Naruto - Boruto",
             "category": "Naruto",
-            "image": "https://i.imgur.com/naruto3.jpg",
-            "thumb": "https://i.imgur.com/naruto3_thumb.jpg"
+            "image": "https://i.imgur.com/wFkiHIG.png",
+            "thumb": "https://i.imgur.com/wFkiHIG.png"
         },
         {
             "id": "4",
             "title": "Naruto - Boruto",
             "category": "Naruto",
-            "image": "https://i.imgur.com/naruto4.jpg",
-            "thumb": "https://i.imgur.com/naruto4_thumb.jpg"
+            "image": "https://i.imgur.com/wFkiHIG.png",
+            "thumb": "https://i.imgur.com/wFkiHIG.png"
         },
         {
             "id": "5",
@@ -95,3 +95,4 @@
     ]
 
 }
+
