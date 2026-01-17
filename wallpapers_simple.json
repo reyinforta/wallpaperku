@@ -3,7 +3,7 @@
         {
             "id": "1",
             "name": "Naruto",
-            "image": "https://i.imgur.com/example1.jpg"
+            "image": "https://i.imgur.com/wFkiHIG.png"
         },
         {
             "id": "2",
@@ -93,4 +93,5 @@
             "thumb": "https://i.imgur.com/levi1_thumb.jpg"
         }
     ]
+
 }
